@@ -1,3 +1,13 @@
 2026-09-22 15:41:21,472 | INFO | Loaded data/Test.csv | shape=(39, 10)
 2026-09-22 15:43:28,574 | INFO | Loaded data/Test.csv | shape=(39, 10)
 2026-09-22 15:43:45,366 | INFO | Loaded data/Test.csv | shape=(39, 10)
+2026-09-22 15:50:34,505 | INFO | Loaded data/Test.csv | shape=(39, 10)
+2026-09-22 16:02:58,106 | INFO | Cleaned categorical columns and added Total_Amount
+2026-09-22 16:06:19,018 | INFO | Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Non-scalable fonts are not supported
+2026-09-22 16:06:19,123 | INFO | generated new fontManager
+2026-09-22 16:07:13,678 | INFO | 1D: Orders per Product plot generated 
+2026-09-22 16:07:48,578 | INFO | 2D: Quantity vs Unit Price plot generated 
+2026-09-22 16:09:21,564 | INFO | 2D: Average Spend by City plot generated 
+2026-09-22 16:10:54,668 | INFO | Multi-dimensional: Quantity vs Unit Price by City and Product plot generated 
+2026-09-22 16:27:51,118 | INFO | Day 1completed successfully
+2026-09-22 16:28:06,994 | INFO | Day 1 completed successfully
