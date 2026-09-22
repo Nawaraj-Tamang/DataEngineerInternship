@@ -1,0 +1,40 @@
+Customer_ID,Customer_Name,Email,City,Product,Quantity,Unit_Price,Order_Date,Gender,Age
+1001, John Smith ,john.smith@email.com,Kathmandu,Laptop,2,750,5-Jan-26,Male,25
+1002,sita sharma,sita.sharma@email.com,Pokhara,Phone,1,450,1-May-26,Female,32
+1003,Hari Thapa,hari.thapa@email.com ,Kathmandu ,Laptop,1,800,7-Jan-26,Male,28
+1004,Gita Rai,gita.rai@email,Lalitpur,Tablet,3,300,8-Jan-26,Female,41
+1005,Ram K.C.,N/A,Bhaktapur,Phone ,2,500,9-Jan-26,Male,35
+1006,ANITA GURUNG,anita.gurung@email.com,Kathmandu,Laptop,1,850,1-Oct-26,Female,29
+1007,Bikash Shrestha,bikash.shrestha@email.com,Pokhara,Headphones,4,80,11-Jan-26,Male,22
+1008,Mina Tamang,mina.tamang@email.com,Kathmandu,phone,1,480,12-Jan-26,Female,30
+1009,Raju Lama,raju.lama@email.com,Lalitpur,Tablet,2,320,13-Jan-26,Male,38
+1010,Pooja Adhikari,pooja.adhikari@email.com,Bhaktapur,Laptop,1,900,14-Jan-26,Female,27
+1011,  Dipak Oli,dipak.oli@email.com,Kathmandu  ,Headphones,2,75,15-Jan-26,Male,45
+1012,Nisha KC,nisha.kc@email.com,Pokhara,Phone,2,460,16-Jan-26,female,31
+1013,Suresh Gurung,suresh.gurung@email.com,Kathmandu,Laptop,1,780,17-Jan-26,Male,52
+1014,Asha Rai,asha.rai@email.com,Lalitpur,Tablet,1,310,18-Jan-26,Female,26
+1015,Kiran Shahi,kiran.shahi@email.com,Kathmandu, phone ,3,470,19-Jan-26,Male,33
+1016,Sunita Thapa,sunita.thapa@email.com,Bhaktapur,Laptop,2,820,20-Jan-26,Female,39
+1017,Madan Bista,madan.bista@email.com,Pokhara,Headphones,1,90,21-Jan-26,Male,24
+1018,Sarita Lama,sarita.lama@email.com,Kathmandu,Tablet,2,290,22-Jan-26,Female,44
+1019,Ramesh KC,ramesh.kc@email.com ,Lalitpur,Phone,1,520,23-Jan-26,Male,36
+1020,Bina Gurung,bina.gurung@email.com,Kathmandu,Laptop,1,880,24-Jan-26,Female,29
+1021,Prakash Tamang,prakash.tamang@email.com,Pokhara,Phone,2,490,25-Jan-26,Male,48
+1022,Nirmala Rai,nirmala.rai@email.com,Bhaktapur,Tablet,1,305,26-Jan-26,Female,34
+1023,Roshan Shrestha,roshan.shrestha@email.com,Kathmandu,Laptop,2,760,27-Jan-26,Male,16
+1024,Kusum KC,kusum.kc@email.com,Lalitpur,Headphones,3,85,28-Jan-26,Female,42
+1025,Manoj Thapa,manoj.thapa@email.com,Kathmandu,Phone,1,510,29-Jan-26,Male,37
+1026,Bimala Gurung,bimala.gurung@email.com,Pokhara,Laptop,1,810,30-Jan-26,Female,31
+1027,Amit Rai,amit.rai@email.com,Kathmandu,Tablet,2,315,31-Jan-26,Male,23
+1028,Rekha Lama,rekha.lama@email.com,Lalitpur,Phone,1,480,1-Feb-26,Female,46
+1029,Nabin Karki,nabin.karki@email.com,Kathmandu,Laptop,1,795,2-Feb-26,Male,30
+1030,Sabina Shrestha,sabina.shrestha@email.com,Bhaktapur,Headphones,2,88,3-Feb-26,Female,28
+1031,Rajendra Thapa,rajendra.thapa@email.com,Pokhara,Phone,1,505,4-Feb-26,Male,55
+1033,Sanjay KC,sanjay.kc@email.com,Lalitpur,Laptop,1,860,6-Feb-26,Male,26
+1034,Laxmi Gurung,laxmi.gurung@email.com,Kathmandu,Phone,2,475,7-Feb-26,Female,33
+1035,  Deepa Lama,deepa.lama@email.com,Pokhara,Headphones,1,95,8-Feb-26,Female,51
+1037,Kritika Rai,kritika.rai@email.com,Kathmandu,Tablet,1,300,10-Feb-26,Female,25
+1038,Bishal Karki,bishal.karki@email.com,Lalitpur,Phone,3,495,11-Feb-26,Male,39
+1039,Smriti Thapa,smriti.thapa@email.com,Ktm,Laptop,1,830,12-Feb-26,Female,36
+1040,Arjun Sharma,arjun.sharma@email.com,Pokhara,Phone,1,515,13-Feb-26,Female,29
+1008,Mina Tamang,mina.tamang@email.com,Kathmandu,phone,1,480,12-Jan-26,Female,30
