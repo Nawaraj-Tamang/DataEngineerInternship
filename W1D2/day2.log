@@ -1,0 +1,13 @@
+2026-09-23 13:06:32,288 | INFO | Day 2 Session started 
+2026-09-23 16:13:57,350 | INFO | Loaded data/Test.csv | shape=(30, 10)
+2026-09-23 16:14:24,347 | INFO | Data quality check | missing_total=4 | duplicates=1
+2026-09-23 16:14:29,701 | INFO | Removed 1 duplicate row(s) | rows: 30 -> 29
+2026-09-23 16:17:14,556 | INFO | Standardized categorical columns: City, Product, Gender
+2026-09-23 16:17:49,442 | INFO | Filled 1 missing value(s) in Unit_Price with median=485.0
+2026-09-23 16:17:49,445 | INFO | Handled missing values in Unit_Price, Age, City, Email
+2026-09-23 16:18:12,757 | INFO | Converted Order_Date to datetime | invalid_dates=1
+2026-09-23 16:18:18,835 | INFO | Capped 2 outlier(s) in Age to range [9.00, 57.00]
+2026-09-23 16:18:18,839 | INFO | Capped 1 outlier(s) in Unit_Price to range [-417.50, 1522.50]
+2026-09-23 16:18:22,845 | INFO | Added Total_Amount = Quantity * Unit_Price
+2026-09-23 16:18:29,700 | INFO | Saved cleaned data -> data/Test_cleaned.csv | shape=(29, 11)
+2026-09-23 16:18:35,136 | INFO | Day 2 completed successfully
