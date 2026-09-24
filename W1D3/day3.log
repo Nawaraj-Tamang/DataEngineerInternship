@@ -1,0 +1,132 @@
+2026-09-24 13:54:20,866 | INFO | Day 3 | Selenium and Beautiful Soup Library
+2026-09-24 14:00:23,805 | INFO | Loaded data/tiktok.csv | shape=(800, 9)
+2026-09-24 14:00:46,830 | INFO | Loaded data/tiktok.csv | shape=(800, 9)
+2026-09-24 14:22:54,507 | INFO | Missing values | Comment ID                 0.0
+Reply to Which Comment    53.9
+User ID                    0.0
+Comment                    1.5
+Comment Time               0.0
+Digg Count                 0.0
+Author Digged              0.0
+Reply Count               46.1
+Pinned to Top             46.1
+dtype: float64
+2026-09-24 14:44:53,175 | INFO | Loaded data/tiktok.csv | shape=(800, 9)
+2026-09-24 14:50:14,092 | INFO | Reply to Which Comment | converted to boolean signal 'is_reply'
+2026-09-24 14:50:46,281 | INFO | Reply to Which Comment | converted to boolean signal 'is_reply'
+2026-09-24 14:53:09,373 | INFO | Reply Count | filled missing with 0 and converted to int
+2026-09-24 15:04:01,858 | INFO | Loaded data/tiktok.csv | shape=(800, 9)
+2026-09-24 15:04:10,870 | INFO | Reply to Which Comment | converted to boolean signal 'is_reply'
+2026-09-24 15:04:17,099 | INFO | Reply Count | filled missing with 0 and converted to int
+2026-09-24 15:11:37,436 | INFO | Pinned to Top | filled missing with 'Not Applicable'
+2026-09-24 15:12:46,627 | INFO | Reply to Which Comment | filled missing with 'Not Reply to Any Comment'
+2026-09-24 15:15:58,613 | INFO | Day 3 | Selenium and Beautiful Soup Library
+2026-09-24 15:16:07,231 | INFO | Loaded data/tiktok.csv | shape=(800, 9)
+2026-09-24 15:16:44,188 | INFO | Loaded data/tiktok.csv | shape=(800, 9)
+2026-09-24 15:17:04,336 | INFO | Loaded data/tiktok.csv | shape=(800, 9)
+2026-09-24 15:17:10,823 | INFO | Missing values | Comment ID                 0.0
+Reply to Which Comment    53.9
+User ID                    0.0
+Comment                    1.5
+Comment Time               0.0
+Digg Count                 0.0
+Author Digged              0.0
+Reply Count               46.1
+Pinned to Top             46.1
+dtype: float64
+2026-09-24 15:17:47,851 | INFO | Reply to Which Comment | converted to boolean signal 'is_reply'
+2026-09-24 15:18:33,208 | INFO | Reply Count | filled missing with 0 and converted to int
+2026-09-24 15:19:19,748 | INFO | Pinned to Top | filled missing with 'Not Applicable'
+2026-09-24 15:19:50,625 | INFO | Reply to Which Comment | filled missing with 'Not Reply to Any Comment'
+2026-09-24 15:23:10,549 | INFO | rows with missing 'Comment' dropped | shape=(788, 9)
+2026-09-24 15:24:06,366 | INFO | Day 3 | Selenium and Beautiful Soup Library
+2026-09-24 15:24:08,350 | INFO | Loaded data/tiktok.csv | shape=(800, 9)
+2026-09-24 15:24:10,382 | INFO | Missing values | Comment ID                 0.0
+Reply to Which Comment    53.9
+User ID                    0.0
+Comment                    1.5
+Comment Time               0.0
+Digg Count                 0.0
+Author Digged              0.0
+Reply Count               46.1
+Pinned to Top             46.1
+dtype: float64
+2026-09-24 15:24:13,636 | INFO | Day 3 | Selenium and Beautiful Soup Library
+2026-09-24 15:24:13,649 | INFO | Loaded data/tiktok.csv | shape=(800, 9)
+2026-09-24 15:24:13,673 | INFO | Missing values | Comment ID                 0.0
+Reply to Which Comment    53.9
+User ID                    0.0
+Comment                    1.5
+Comment Time               0.0
+Digg Count                 0.0
+Author Digged              0.0
+Reply Count               46.1
+Pinned to Top             46.1
+dtype: float64
+2026-09-24 15:24:13,687 | INFO | Reply to Which Comment | converted to boolean signal 'is_reply'
+2026-09-24 15:24:13,708 | INFO | Reply Count | filled missing with 0 and converted to int
+2026-09-24 15:24:13,728 | INFO | Pinned to Top | filled missing with 'Not Applicable'
+2026-09-24 15:24:13,745 | INFO | Reply to Which Comment | filled missing with 'Not Reply to Any Comment'
+2026-09-24 15:24:13,766 | INFO | rows with missing 'Comment' dropped | shape=(788, 10)
+2026-09-24 15:38:20,649 | INFO | Cleaned data saved to 'data/tiktok_clean.csv' | shape=(788, 11)
+2026-09-24 15:39:26,565 | INFO | Cleaned data saved to 'data/tiktok_clean.csv' Comment ID                0
+Reply to Which Comment    0
+User ID                   0
+Comment                   0
+Comment Time              0
+Digg Count                0
+Author Digged             0
+Reply Count               0
+Pinned to Top             0
+is_reply                  0
+is_emoji                  0
+dtype: int64
+2026-09-24 15:40:20,415 | INFO | Cleaned data saved to 'data/tiktok_clean.csv' Shape=(788, 11)  Comment ID                0
+Reply to Which Comment    0
+User ID                   0
+Comment                   0
+Comment Time              0
+Digg Count                0
+Author Digged             0
+Reply Count               0
+Pinned to Top             0
+is_reply                  0
+is_emoji                  0
+dtype: int64
+2026-09-24 16:07:46,716 | INFO | ====== WebDriver manager ======
+2026-09-24 16:07:46,749 | INFO | Get LATEST chromedriver version for google-chrome
+2026-09-24 16:07:48,337 | INFO | WebDriver version 154.0.8037.57 selected
+2026-09-24 16:07:48,351 | INFO | Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/154.0.8037.57/linux64/chromedriver-linux64.zip
+2026-09-24 16:07:48,351 | INFO | About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/154.0.8037.57/linux64/chromedriver-linux64.zip
+2026-09-24 16:07:49,269 | INFO | Driver downloading response is 200
+2026-09-24 16:07:51,740 | INFO | Get LATEST chromedriver version for google-chrome
+2026-09-24 16:07:52,353 | INFO | Driver has been saved in cache [/home/nawaraj-tamang/.wdm/drivers/chromedriver/linux64/154.0.8037.57]
+2026-09-24 16:09:35,434 | INFO | ====== WebDriver manager ======
+2026-09-24 16:09:36,717 | INFO | Get LATEST geckodriver version for 149.0 firefox
+2026-09-24 16:09:37,719 | INFO | There is no [linux64] geckodriver "v0.37.1" for browser firefox "149.0" in cache
+2026-09-24 16:09:38,355 | INFO | There is no [linux64] geckodriver "v0.37.1" for browser firefox "149.0" in cache
+2026-09-24 16:09:38,356 | INFO | Get LATEST geckodriver version for 149.0 firefox
+2026-09-24 16:09:39,055 | INFO | Getting latest mozilla release info for v0.37.1
+2026-09-24 16:09:40,065 | INFO | About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.37.1/geckodriver-v0.37.1-linux64.tar.gz
+2026-09-24 16:09:41,190 | INFO | Driver downloading response is 200
+2026-09-24 16:09:41,761 | INFO | Driver has been saved in cache [/home/nawaraj-tamang/.wdm/drivers/geckodriver/linux64/v0.37.1]
+2026-09-24 16:10:38,543 | INFO | ====== WebDriver manager ======
+2026-09-24 16:10:39,176 | INFO | Driver [/home/nawaraj-tamang/.wdm/drivers/geckodriver/linux64/v0.37.1/geckodriver] found in cache by browser version
+2026-09-24 16:22:47,376 | INFO | ====== WebDriver manager ======
+2026-09-24 16:22:47,509 | INFO | Get LATEST geckodriver version for 156.0 firefox
+2026-09-24 16:22:48,141 | INFO | There is no [linux64] geckodriver "v0.37.1" for browser firefox "156.0" in cache
+2026-09-24 16:22:48,182 | INFO | There is no [linux64] geckodriver "v0.37.1" for browser firefox "156.0" in cache
+2026-09-24 16:22:48,182 | INFO | Get LATEST geckodriver version for 156.0 firefox
+2026-09-24 16:22:48,573 | INFO | Getting latest mozilla release info for v0.37.1
+2026-09-24 16:22:49,332 | INFO | About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.37.1/geckodriver-v0.37.1-linux64.tar.gz
+2026-09-24 16:22:50,391 | INFO | Driver downloading response is 200
+2026-09-24 16:22:51,561 | INFO | Driver has been saved in cache [/home/nawaraj-tamang/.wdm/drivers/geckodriver/linux64/v0.37.1]
+2026-09-24 16:23:34,325 | INFO | ====== WebDriver manager ======
+2026-09-24 16:23:34,404 | INFO | Driver [/home/nawaraj-tamang/.wdm/drivers/geckodriver/linux64/v0.37.1/geckodriver] found in cache by browser version
+2026-09-24 16:24:10,538 | INFO | ====== WebDriver manager ======
+2026-09-24 16:24:10,579 | INFO | Driver [/home/nawaraj-tamang/.wdm/drivers/geckodriver/linux64/v0.37.1/geckodriver] found in cache by browser version
+2026-09-24 16:25:29,476 | INFO | ====== WebDriver manager ======
+2026-09-24 16:25:29,519 | INFO | Driver [/home/nawaraj-tamang/.wdm/drivers/geckodriver/linux64/v0.37.1/geckodriver] found in cache by browser version
+2026-09-24 16:25:48,400 | INFO | ====== WebDriver manager ======
+2026-09-24 16:25:48,464 | INFO | Driver [/home/nawaraj-tamang/.wdm/drivers/geckodriver/linux64/v0.37.1/geckodriver] found in cache by browser version
+2026-09-24 16:41:59,050 | INFO | Day 3 | Selenium and Beautiful Soup Library | Completed
