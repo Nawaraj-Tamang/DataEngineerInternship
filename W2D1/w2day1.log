@@ -1,0 +1,5 @@
+2026-09-28 14:59:37,057 | INFO | Week 2 Day 1 - Started
+2026-09-28 15:00:00,545 | INFO | Credentials loaded from .env
+2026-09-28 15:00:17,249 | INFO | Connected to database 'BMC'
+2026-09-28 15:00:17,249 | INFO | Connected to database 'BMC'
+2026-09-28 15:01:28,451 | INFO | Schema created/verified (teacher and student tables)
