@@ -1,0 +1,16 @@
+2026-09-30 15:23:03,597 | INFO | Week 2 Day 3 - Started
+2026-09-30 15:23:07,706 | INFO | Credentials loaded from .env
+2026-09-30 15:23:12,901 | INFO | Database 'BMC' already exists
+2026-09-30 15:23:18,167 | INFO | Connected to database 'BMC'
+2026-09-30 15:23:24,111 | INFO | Loaded data/tiktok.csv: 800 rows, 9 columns
+2026-09-30 15:23:39,406 | INFO | Cleaning and format normalization complete
+2026-09-30 15:23:49,217 | INFO | Scaling normalization complete (11 scaled columns)
+2026-09-30 15:23:57,552 | INFO | Schema created/verified (users, comments, comment_features, comment_stats)
+2026-09-30 15:24:00,885 | INFO | Truncated comment_features, comments, users before reloading
+2026-09-30 15:24:01,055 | INFO | Loaded 435 users, 800 comments, 800 feature rows
+2026-09-30 15:24:06,113 | INFO | Verification: {'view reply_count == original (all top-level)': True, 'JOIN row count == CSV row count': True, 'all 800 comment IDs stored exactly': True, 'orphan replies == 0': True}
+2026-09-30 15:24:09,562 | INFO | Constraint test 'foreign key (unknown user)' rejected as expected: ForeignKeyViolation
+2026-09-30 15:24:09,564 | INFO | Constraint test 'check (negative digg_count)' rejected as expected: CheckViolation
+2026-09-30 15:24:09,565 | INFO | Constraint test 'primary key (duplicate comment_id)' rejected as expected: UniqueViolation
+2026-09-30 15:24:14,920 | INFO | Connection closed
+2026-09-30 15:24:14,920 | INFO | W2D3 completed successfully
