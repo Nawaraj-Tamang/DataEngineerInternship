@@ -1,0 +1,501 @@
+comment_id,user_id,category,text,likes,replies,word_count,char_count,sentiment_score,is_pinned,posted_at
+C0001,U095,travel,"Visited Lumbini last autumn, the food was absolutely breathtaking",34,3,9,65,0.252,0,2026-09-04 09:46:00
+C0002,U004,sports,The coach of Nepal deserves credit for the teamwork this week,2,0,11,61,-0.072,0,2026-09-07 02:42:00
+C0003,U084,technology,"This phone review is spot on, the speaker really stands out to be fair",11,0,14,70,0.39,0,2026-09-05 19:00:00
+C0004,U104,food,Can someone share a spicy dal bhat recipe with less chili in my opinion,100,1,14,71,0.939,0,2026-09-07 08:26:00
+C0005,U013,food,"I tried making biryani at home, the garlic was too spicy really",6,0,12,63,0.51,0,2026-09-19 01:51:00
+C0006,U011,food,"This pasta recipe is delicious, the coriander makes it so spicy really",15,1,12,70,0.343,0,2026-09-02 05:07:00
+C0007,U085,sports,"Proud of Gorkhali, the bowling in the second half changed the game",11,1,12,66,0.139,0,2026-09-11 09:42:00
+C0008,U036,food,Can someone share a spicy dal recipe with less chili in my opinion,2,0,13,66,0.792,0,2026-09-17 14:25:00
+C0009,U035,education,"I am struggling with joins in databases, can anyone suggest a clear resource to be fair",10,0,16,87,0.798,0,2026-09-20 04:12:00
+C0010,U021,sports,The coach of deserves credit for the teamwork this week,13,1,10,55,0.231,0,2026-09-17 22:59:00
+C0011,U106,food,"My family loved the pizza, the chili added a spicy flavour",25,1,11,58,-0.286,0,2026-09-10 08:30:00
+C0012,U064,food,"I tried making dal bhat at home, the chili was too creamy to be fair",16,3,15,68,0.82,0,2026-09-06 15:09:00
+C0013,U034,education,"Great lecture on regression, the statistics teacher made it interesting honestly",6,0,11,80,-0.404,0,2026-09-07 18:28:00
+C0014,U012,food,"Best pizza in town, you must try it with extra cheese really",33,2,12,60,0.43,0,2026-09-21 02:20:00
+C0015,U049,education,"I am struggling with pandas in machine learning, can anyone suggest a simple resource really",9,0,15,92,0.364,0,2026-09-04 23:38:00
+C0016,U035,travel,"Spent a week in Pokhara, the weather will stay in my memory forever in my opinion",40,7,16,81,-0.017,0,2026-09-03 00:54:00
+C0017,U098,food,"I tried making pasta at home, the garlic was too tasty honestly",76,8,12,63,0.832,0,2026-09-17 12:42:00
+C0018,U048,education,"Great lecture on pandas, the python teacher made it clear",1,0,10,57,0.438,0,2026-09-13 17:48:00
+C0019,U003,travel,"Spent a week in Pokhara, the trekking will stay in my memory forever really",23,3,14,75,0.26,0,2026-09-05 18:14:00
+C0020,U011,food,"Best pizza in town, you must try it with extra garlic honestly",102,9,12,62,0.219,0,2026-09-12 13:17:00
+C0021,U085,travel,"Spent a in Pokhara, the trekking will stay in my memory forever really",13,0,13,70,0.563,0,2026-09-16 14:16:00
+C0022,U094,travel,"Spent a week in Chitwan, the weather will stay in my memory forever in my opinion",9,0,16,81,0.185,0,2026-09-21 04:45:00
+C0023,U032,sports,"Proud of Madrid, the teamwork in the second half changed the game",7,0,12,65,-0.077,0,2026-09-15 18:37:00
+C0024,U091,food,"I tried making dal bhat at home, the cheese was too spicy",12,0,12,57,0.299,0,2026-09-02 17:18:00
+C0025,U086,technology,"Just bought the phone, the speaker works perfectly for daily use",11,1,11,64,0.001,0,2026-09-13 23:57:00
+C0026,U061,travel,"Spent a week in Mustang, the food will stay in my memory forever in my opinion",19,1,16,78,-0.286,0,2026-09-20 14:08:00
+C0027,U060,technology,"Just bought the phone, the speaker works perfectly for daily use really",12,0,12,71,0.171,0,2026-09-17 05:52:00
+C0028,U111,technology,The new phone has a great processor and the price is amazing in my opinion,10,2,15,74,0.052,0,2026-09-04 18:11:00
+C0029,U032,technology,"I think the smartwatch display is overrated, the price could be better really",15,0,13,77,-0.041,0,2026-09-04 09:09:00
+C0030,U002,technology,"This phone review is spot on, the battery really stands out in my opinion",93,6,14,73,-0.291,0,2026-09-13 04:03:00
+C0031,U111,education,"I am struggling with clustering in machine learning, can anyone suggest a practical resource",6,1,14,92,-0.089,0,2026-09-09 06:11:00
+C0032,U090,technology,Anyone else having issues with the tablet price after the update really,6,1,12,71,0.366,0,2026-09-02 23:45:00
+C0033,U008,education,"Final year exam on statistics is near, please share notes about regression",34,3,12,74,0.474,0,2026-09-12 21:26:00
+C0034,U118,travel,"Visited Pokhara last monsoon, the culture was absolutely breathtaking honestly",63,6,10,78,0.484,0,2026-09-08 10:48:00
+C0035,U087,technology,The new laptop has a great battery and the build quality is amazing,58,12,13,67,-0.173,0,2026-09-16 03:57:00
+C0036,U080,food,"My family loved the pizza, the coriander added a sweet flavour",156,15,11,62,0.566,0,2026-09-18 12:16:00
+C0037,U034,travel,"Lumbini is overrated, the trekking was crowded and expensive",19,0,9,60,0.166,0,2026-09-19 11:03:00
+C0038,U073,sports,"Proud of Nepal, the defence in the second half changed the game honestly",57,4,13,72,0.244,0,2026-09-06 02:53:00
+C0039,U048,technology,"Just bought the laptop, the camera works perfectly for daily use",28,3,11,64,0.221,0,2026-09-06 05:02:00
+C0040,U105,food,"Best dal bhat in town, you must try it with extra coriander to be fair",4,1,15,70,0.388,0,2026-09-04 13:22:00
+C0041,U096,education,"Great lecture on regression, the statistics teacher made it interesting honestly",19,2,11,80,0.217,0,2026-09-02 01:40:00
+C0042,U033,food,"Best pizza in town, you must try it with extra chili really",17,3,12,59,0.659,0,2026-09-13 09:24:00
+C0043,U001,education,"lecture on pandas, the python teacher made it clear",10,1,9,51,-0.135,0,2026-09-16 18:38:00
+C0044,U002,technology,"I think the smartwatch speaker is overrated, the software could be better honestly",5,0,13,82,0.686,0,2026-09-08 18:49:00
+C0045,U071,education,"I am struggling with normalization in python, can anyone suggest a difficult resource honestly",29,3,14,94,0.346,0,2026-09-14 15:50:00
+C0046,U014,technology,The new tablet has a great display and the design is amazing to be fair,3,1,15,71,0.021,0,2026-09-14 18:14:00
+C0047,U104,travel,"Spent a week in Kathmandu, the food will stay in my memory forever in my opinion",97,8,16,80,0.303,0,2026-09-20 23:52:00
+C0048,U101,food,"Best pasta in town, you must try it with extra cheese",23,1,11,53,0.449,0,2026-09-15 09:18:00
+C0049,U118,food,"Best pizza in town, you must try it with extra garlic honestly in my opinion",7,0,15,76,0.283,0,2026-09-14 21:08:00
+C0050,U043,food,"I tried making pizza at home, the garlic was too creamy really",76,4,12,62,0.347,0,2026-09-04 10:25:00
+C0051,U004,technology,"Just bought the camera, the processor works perfectly for daily use",2,1,11,67,0.265,0,2026-09-20 22:51:00
+C0052,U045,education,"Great lecture on normalization, the data science teacher made it interesting really",7,0,12,83,0.444,0,2026-09-05 11:09:00
+C0053,U033,food,"My family loved the momo, the butter added a sweet flavour",35,2,11,58,0.703,0,2026-09-20 09:05:00
+C0054,U086,food,"My family loved the pizza, the chili added a crispy flavour",14,0,11,59,0.328,0,2026-09-17 20:28:00
+C0055,U053,travel,"Visited Lumbini last monsoon, the trekking was absolutely breathtaking to be fair",30,2,12,81,0.878,0,2026-09-02 11:59:00
+C0056,U073,sports,"Madrid played badly today, their batting needs serious improvement honestly",9,0,10,75,0.008,0,2026-09-14 04:45:00
+C0057,U075,travel,"Spent a week in Mustang, the food will stay in my memory forever in my opinion in my opinion",32,1,19,92,0.571,0,2026-09-03 01:19:00
+C0058,U011,food,"I tried making dal bhat at home, the butter was too creamy to be fair",10,1,15,69,0.784,0,2026-09-05 10:01:00
+C0059,U026,sports,"What a match by Barcelona, the passing from the captain was incredible in my opinion",109,7,15,84,0.563,0,2026-09-05 09:58:00
+C0060,U074,technology,"This phone review is spot on, the processor really stands out to be fair",72,8,14,72,0.386,0,2026-09-15 18:04:00
+C0061,U055,sports,"Barcelona played badly today, their defence needs serious improvement in my opinion",11,0,12,83,0.173,0,2026-09-12 15:21:00
+C0062,U016,sports,Can Nepal win the league with this teamwork next month in my opinion,5,0,13,68,0.549,0,2026-09-15 11:18:00
+C0063,U105,sports,The coach of Gorkhali deserves credit for the passing this week honestly,29,5,12,72,-0.143,0,2026-09-14 10:48:00
+C0064,U034,travel,"Spent a week in Chitwan, the culture will stay in my memory forever really",157,16,14,74,0.891,0,2026-09-04 21:04:00
+C0065,U010,education,Learning regression for machine learning is difficult once you practice daily really,9,2,12,84,0.557,0,2026-09-05 06:04:00
+C0066,U050,technology,"This phone review is spot on, the display really stands out",7,0,11,59,0.477,0,2026-09-09 18:24:00
+C0067,U054,sports,"Barcelona played badly today, their defence needs serious improvement in my opinion really",84,5,13,90,0.107,0,2026-09-03 01:42:00
+C0068,U001,education,Learning pandas for data science is practical once you practice daily really,22,2,12,76,0.244,0,2026-09-20 13:56:00
+C0069,U063,food,Can someone share a sweet dal bhat recipe with less coriander,6,1,11,61,-0.025,0,2026-09-20 15:18:00
+C0070,U052,food,"Best dal bhat in town, you must try it with extra coriander be fair",13,3,14,67,0.487,0,2026-09-17 19:14:00
+C0071,U073,education,Learning normalization for python is practical once you practice daily honestly,14,0,11,79,0.431,0,2026-09-06 00:11:00
+C0072,U042,technology,Anyone else having issues with the laptop price after the update really,53,6,12,71,0.374,0,2026-09-16 23:56:00
+C0073,U011,food,Can someone share a tasty biryani recipe with less butter in my opinion,4,3,13,71,-0.093,0,2026-09-03 12:21:00
+C0074,U100,sports,"What a match by Barcelona, the passing from the captain was incredible in my opinion",16,2,15,84,0.751,0,2026-09-20 21:38:00
+C0075,U080,technology,"I think the smartwatch display is overrated, the price could be better really",19,0,13,77,-0.151,0,2026-09-07 21:15:00
+C0076,U048,technology,"This laptop review is spot on, the processor really stands out in my opinion",115,13,14,76,0.365,0,2026-09-15 14:39:00
+C0077,U004,travel,"Visited Kathmandu last winter, the views was absolutely breathtaking honestly",25,0,10,77,0.304,0,2026-09-19 06:26:00
+C0078,U089,travel,Highly recommend Chitwan during autumn for the views alone honestly,11,0,10,67,0.376,0,2026-09-15 01:20:00
+C0079,U006,food,"Best dal bhat in town, you must try it with extra garlic in my opinion",12,1,15,70,1.0,0,2026-09-14 14:07:00
+C0080,U063,food,"My family loved the biryani, the garlic added a crispy flavour in my opinion",30,1,14,76,0.473,0,2026-09-18 15:33:00
+C0081,U067,education,"Final year exam on statistics is near, please share notes about clustering to be fair",223,16,15,85,-0.133,0,2026-09-21 07:21:00
+C0082,U094,food,"My family loved the pasta, the butter added a crispy flavour in my opinion",4,0,14,74,0.205,0,2026-09-04 18:44:00
+C0083,U060,food,"This biryani recipe is delicious, the butter makes it so creamy in my opinion",29,3,14,77,1.0,0,2026-09-02 10:21:00
+C0084,U046,sports,Can Chennai win the league with this bowling next week,128,16,10,54,-0.506,0,2026-09-18 22:53:00
+C0085,U011,food,"Best dal bhat in town, you must try it with extra garlic",18,2,12,56,0.301,0,2026-09-17 21:13:00
+C0086,U003,food,"I tried making pasta at home, the butter was too crispy in my opinion",29,4,14,69,0.37,0,2026-09-07 00:15:00
+C0087,U068,technology,"Just bought the camera, the camera works perfectly for daily use honestly",25,5,12,73,0.03,0,2026-09-15 14:42:00
+C0088,U030,education,"Great lecture on joins, the machine learning teacher made it difficult",14,0,11,70,-0.41,0,2026-09-09 21:38:00
+C0089,U062,technology,Anyone else having issues with the tablet price after the update really to be fair,7,2,15,82,-0.035,0,2026-09-11 08:30:00
+C0090,U030,travel,"Spent a week in Lumbini, the food will stay in my memory forever",28,5,13,64,0.038,0,2026-09-18 04:45:00
+C0091,U038,food,"I tried making biryani at home, the garlic was too spicy honestly",31,5,12,65,0.87,0,2026-09-10 09:31:00
+C0092,U061,technology,Anyone else having issues with the phone build quality after the update,21,2,12,71,0.284,0,2026-09-08 10:09:00
+C0093,U063,food,"Best pasta in town, you must try it with extra garlic really",25,5,12,60,-0.36,0,2026-09-17 02:31:00
+C0094,U011,travel,Spent a week in the trekking will stay in my memory forever really,33,1,13,66,0.505,0,2026-09-06 20:21:00
+C0095,U067,technology,"This camera review is spot on, the speaker really stands out in my opinion",2,1,14,74,0.169,0,2026-09-14 00:50:00
+C0096,U008,education,Learning joins for machine learning is interesting once you practice daily honestly,1,0,12,83,0.861,0,2026-09-05 13:30:00
+C0097,U031,sports,"Barcelona played badly today, their passing needs serious improvement",30,1,9,69,-0.229,0,2026-09-20 16:02:00
+C0098,U038,technology,"This laptop review is spot on, the really stands out in my opinion",21,2,13,66,0.576,0,2026-09-18 05:40:00
+C0099,U102,food,Can someone share a tasty momo recipe with less cheese in my opinion,11,0,13,68,0.122,0,2026-09-10 20:36:00
+C0100,U020,sports,Can Nepal win the league with this teamwork next month to be fair,127,9,13,65,0.934,0,2026-09-08 09:20:00
+C0101,U096,sports,"Proud of Madrid, the teamwork in the second half the game",174,16,11,57,0.112,0,2026-09-17 05:17:00
+C0102,U070,education,"Final year exam on databases is near, please share notes about clustering honestly",13,0,13,82,-0.221,0,2026-09-10 18:08:00
+C0103,U033,technology,Anyone else having issues with the laptop price after update really,24,3,11,67,-0.071,1,2026-09-21 06:19:00
+C0104,U006,technology,"This camera review is spot on, the battery really stands out honestly",10,1,12,69,-0.567,0,2026-09-10 19:03:00
+C0105,U082,technology,Anyone else having issues with the tablet build quality after the update really,31,2,13,79,-0.075,0,2026-09-15 00:49:00
+C0106,U021,education,"Final year exam on databases is near, please share notes about joins in my opinion",107,5,15,82,-0.71,0,2026-09-18 00:25:00
+C0107,U041,sports,Can Gorkhali win the league with this defence next week,3,0,10,55,0.172,0,2026-09-05 14:48:00
+C0108,U007,technology,"This phone review is spot on, the speaker really stands out really",64,5,12,66,0.429,0,2026-09-06 00:18:00
+C0109,U017,food,Can someone share a tasty momo recipe with less cheese honestly,3,1,11,63,0.002,0,2026-09-20 20:10:00
+C0110,U021,food,"This momo recipe is delicious, the coriander makes it so creamy to be fair",4,0,14,74,0.597,0,2026-09-13 21:57:00
+C0111,U107,technology,"I think the phone processor is overrated, the performance could be better to be fair",16,1,15,84,-0.597,0,2026-09-08 16:29:00
+C0112,U059,education,"Great lecture on clustering, the machine learning teacher made it practical",21,2,11,75,-0.141,0,2026-09-17 21:53:00
+C0113,U102,food,"My family loved the pizza, the garlic added a tasty flavour in my opinion",48,0,14,73,0.451,0,2026-09-01 09:57:00
+C0114,U076,food,"Best momo in town, you must try it with extra chili in my opinion",9,2,14,65,0.214,0,2026-09-10 20:23:00
+C0115,U071,travel,Highly recommend Mustang during summer for the trekking alone,78,8,9,61,0.27,0,2026-09-02 15:57:00
+C0116,U110,food,"I tried making pizza at home, the coriander was too crispy",18,1,11,58,-0.024,0,2026-09-10 08:17:00
+C0117,U017,technology,Anyone else having issues with the smartwatch software after the update,195,17,11,71,-0.481,0,2026-09-05 00:07:00
+C0118,U093,travel,Highly recommend Pokhara during monsoon for the culture alone,10,2,9,61,0.566,0,2026-09-11 05:11:00
+C0119,U089,education,This machine learning course explains joins in a very difficult way honestly,82,10,12,76,0.313,0,2026-09-16 12:12:00
+C0120,U070,technology,"This smartwatch review is spot on, the camera really stands out in my opinion",29,1,14,77,0.056,0,2026-09-16 01:24:00
+C0121,U098,technology,"Just bought the laptop, the battery works perfectly for daily use",10,2,11,65,-0.038,0,2026-09-13 10:49:00
+C0122,U008,education,"Great lecture on normalization, the data science teacher made it difficult in my opinion",75,7,14,88,0.007,0,2026-09-10 05:10:00
+C0123,U023,food,"My family loved the pasta, the coriander added a creamy flavour",8,0,11,63,0.419,0,2026-09-09 04:22:00
+C0124,U060,education,"I am struggling with pandas in machine learning, can anyone suggest a clear resource",3,0,14,84,0.55,0,2026-09-12 00:14:00
+C0125,U057,food,Can someone share a creamy biryani recipe with less coriander,19,5,10,61,0.769,0,2026-09-02 22:56:00
+C0126,U050,education,"Final year exam on databases is near, please share notes about clustering",21,4,12,73,-0.017,0,2026-09-05 18:11:00
+C0127,U107,technology,"Just bought the camera, the camera works perfectly for daily use",240,20,11,64,-0.127,0,2026-09-20 15:24:00
+C0128,U103,food,"This dal bhat recipe is delicious, the butter makes it so tasty in my opinion",46,5,15,77,0.077,0,2026-09-09 20:58:00
+C0129,U013,sports,"Gorkhali played badly today, their passing needs serious improvement to be fair",17,0,12,79,0.214,0,2026-09-16 23:50:00
+C0130,U017,travel,Highly recommend Pokhara during monsoon for the trekking alone to be fair,41,3,12,73,0.281,0,2026-09-18 02:54:00
+C0131,U068,food,"I tried making pizza at home, the cheese was too sweet",40,3,11,54,0.948,0,2026-09-01 10:06:00
+C0132,U010,food,Can someone share a spicy biryani recipe with less chili really,26,5,11,63,0.001,0,2026-09-09 00:13:00
+C0133,U051,education,"Final year exam on python is near, please share notes about joins in my opinion",10,0,15,79,-0.023,1,2026-09-14 19:34:00
+C0134,U087,travel,"Mustang is overrated, the trekking was crowded and expensive",327,26,9,60,0.483,0,2026-09-18 12:57:00
+C0135,U009,technology,"This tablet review is spot on, the speaker really stands out to be fair",6,0,14,71,-0.379,0,2026-09-08 11:54:00
+C0136,U039,travel,Highly recommend Pokhara during autumn for the views alone,18,3,9,58,0.583,0,2026-09-10 16:50:00
+C0137,U086,technology,"This laptop review is spot on, the processor really stands out",33,1,11,62,-0.335,0,2026-09-10 16:32:00
+C0138,U063,sports,The coach of Barcelona deserves credit for the batting this season in my opinion,65,3,14,80,-0.546,0,2026-09-10 15:15:00
+C0139,U110,education,"Great lecture on clustering, the statistics teacher made it practical",245,26,10,69,-0.42,0,2026-09-17 08:48:00
+C0140,U016,education,"Great lecture on clustering, the data science teacher made it difficult",6,0,11,71,-0.241,0,2026-09-03 01:22:00
+C0141,U003,sports,"Proud of Nepal, the defence in the second half the game honestly",24,1,12,64,0.049,0,2026-09-15 20:28:00
+C0142,U076,food,"My family loved the pizza, the garlic added a sweet flavour",66,8,11,59,0.262,0,2026-09-15 00:39:00
+C0143,U019,education,"I am struggling with normalization in python, can anyone suggest a difficult resource in my opinion",4,1,16,99,-0.122,0,2026-09-11 08:22:00
+C0144,U102,travel,"Visited Pokhara last autumn, the views was absolutely breathtaking",15,1,9,66,0.659,0,2026-09-08 18:02:00
+C0145,U054,travel,"Visited Lumbini last monsoon, the trekking was absolutely breathtaking to be fair to be fair",339,26,15,92,0.352,0,2026-09-06 08:18:00
+C0146,U065,sports,"Proud of Gorkhali, the teamwork in the second half changed the game really",5,0,13,74,0.35,0,2026-09-02 19:43:00
+C0147,U062,travel,"Spent a week in Lumbini, the views will stay in my memory forever",20,3,13,65,0.322,0,2026-09-16 04:29:00
+C0148,U042,food,Can someone share a tasty momo recipe with less cheese honestly,38,0,11,63,0.292,0,2026-09-18 22:30:00
+C0149,U068,technology,"This camera review is spot on, the camera really stands out honestly",42,5,12,68,0.363,0,2026-09-15 04:58:00
+C0150,U114,travel,"Visited Mustang last autumn, the culture was absolutely breathtaking really",9,1,10,75,-0.193,0,2026-09-11 11:16:00
+C0151,U086,food,Can someone share a crispy momo recipe with less chili,73,8,10,54,0.165,0,2026-09-04 16:31:00
+C0152,U056,education,"Final year exam on data science is near, please share notes about normalization",13,0,13,79,0.13,0,2026-09-03 03:19:00
+C0153,U043,sports,The coach of Nepal deserves credit for the teamwork this tournament honestly,8,0,12,76,0.667,0,2026-09-13 14:45:00
+C0154,U046,food,Can someone share a sweet momo recipe with less chili,4,0,10,53,0.435,0,2026-09-12 18:18:00
+C0155,U072,travel,Highly recommend Kathmandu during spring for the trekking alone in my opinion,22,2,12,77,0.759,0,2026-09-16 17:40:00
+C0156,U083,sports,Can Gorkhali win the league with this teamwork next tournament to be fair,62,1,13,73,0.265,0,2026-09-21 05:08:00
+C0157,U098,travel,"Pokhara is overrated, the trekking was crowded and expensive to be fair",7,1,12,71,-0.018,0,2026-09-11 02:20:00
+C0158,U009,food,"My family loved the pizza, the added a sweet flavour",6,1,10,52,0.579,0,2026-09-18 00:27:00
+C0159,U059,travel,"Mustang is overrated, the trekking was crowded and expensive really",12,0,10,67,0.809,0,2026-09-05 11:01:00
+C0160,U021,food,"My family loved the dal bhat, the garlic added a spicy flavour",13,1,12,62,0.469,0,2026-09-18 12:04:00
+C0161,U078,technology,"This laptop review is spot on, the really stands out in my opinion",15,4,13,66,0.623,0,2026-09-03 05:11:00
+C0162,U087,food,"This biryani recipe is delicious, the butter makes it so spicy",22,1,11,62,0.463,0,2026-09-12 02:27:00
+C0163,U001,travel,"Visited Kathmandu last summer, the weather was absolutely breathtaking",27,3,9,70,0.202,0,2026-09-06 14:57:00
+C0164,U064,education,"Great lecture on joins, the databases teacher made it simple",19,2,10,60,0.77,0,2026-09-09 22:58:00
+C0165,U051,technology,"I think the camera speaker is overrated, the price could be better",14,4,12,66,-0.031,0,2026-09-15 13:31:00
+C0166,U074,technology,"I think the camera speaker is overrated, the price could be better",64,10,12,66,0.242,0,2026-09-04 17:13:00
+C0167,U022,food,"Best momo in town, you must try it with extra butter",5,0,11,52,1.0,0,2026-09-04 09:50:00
+C0168,U056,travel,"Pokhara is overrated, the views was crowded and expensive",6,3,9,57,0.669,0,2026-09-16 05:49:00
+C0169,U022,travel,"Lumbini is overrated, the trekking was crowded and expensive in my opinion",18,2,12,74,0.068,0,2026-09-14 22:47:00
+C0170,U014,travel,"Planning a trip to Lumbini in winter, any tips on the food",12,0,12,58,0.192,0,2026-09-03 09:43:00
+C0171,U073,technology,The new laptop has a great processor and the software is amazing in my opinion,2,0,15,78,-0.249,0,2026-09-21 03:35:00
+C0172,U057,food,"My family loved the dal bhat, the chili added a tasty flavour",98,7,12,61,0.469,0,2026-09-08 06:36:00
+C0173,U010,food,"Best dal bhat in town, you must try it with extra garlic honestly",44,7,13,65,0.416,0,2026-09-19 06:38:00
+C0174,U110,food,Can someone share a tasty biryani recipe with less butter in my opinion in my opinion,8,0,16,85,0.33,0,2026-09-15 18:59:00
+C0175,U074,travel,"Spent a week in Mustang, the culture will stay in my memory forever in my opinion",7,0,16,81,0.578,0,2026-09-02 03:25:00
+C0176,U116,food,"I tried making momo at home, the butter was too spicy in my opinion",47,4,14,67,0.242,0,2026-09-04 10:54:00
+C0177,U091,education,"Final year exam on databases is near, please share notes about clustering",110,11,12,73,-0.199,0,2026-09-18 03:31:00
+C0178,U053,food,"I tried making biryani at home, the chili was too tasty really",11,1,12,62,0.609,0,2026-09-06 09:14:00
+C0179,U072,sports,"Barcelona played badly today, their passing needs serious improvement",11,0,9,69,-0.11,0,2026-09-17 03:46:00
+C0180,U085,food,"My family loved the pizza, the chili added a spicy flavour honestly",33,3,12,67,0.578,0,2026-09-19 12:12:00
+C0181,U072,food,Can someone share a spicy pizza recipe with less coriander,22,4,10,58,-0.198,0,2026-09-01 22:52:00
+C0182,U003,sports,The coach of Nepal deserves credit for the batting this tournament,268,23,11,66,0.428,0,2026-09-13 20:24:00
+C0183,U010,technology,Anyone else having issues with the laptop design after the update,3,0,11,65,-0.051,0,2026-09-13 13:22:00
+C0184,U080,sports,The coach of Gorkhali deserves credit for the defence this year in my opinion,36,1,14,77,0.479,0,2026-09-19 01:59:00
+C0185,U047,food,"My family loved the pizza, the butter added a spicy flavour really",15,2,12,66,0.436,0,2026-09-07 13:47:00
+C0186,U040,technology,"Just bought the smartwatch, the display works perfectly for daily use",0,0,11,69,-0.105,0,2026-09-14 14:49:00
+C0187,U099,sports,"Chennai played badly today, their teamwork needs serious improvement really",156,13,10,75,0.387,0,2026-09-02 05:52:00
+C0188,U033,food,"I tried making pizza at home, the coriander was too creamy in my opinion",26,7,14,72,0.507,0,2026-09-03 01:09:00
+C0189,U098,travel,"Visited Mustang last spring, the trekking was absolutely breathtaking",24,3,9,69,0.244,0,2026-09-03 05:19:00
+C0190,U120,food,Can someone share a crispy momo recipe with less cheese,75,4,10,55,0.114,1,2026-09-16 10:07:00
+C0191,U004,technology,"I think the smartwatch battery is overrated, the price could be better",15,1,12,70,-0.008,0,2026-09-06 04:49:00
+C0192,U118,technology,"Just bought the laptop, the display works perfectly for daily use",40,3,11,65,0.957,0,2026-09-07 21:19:00
+C0193,U003,sports,Can Madrid win the league with this teamwork next season,13,0,10,56,0.488,0,2026-09-19 20:20:00
+C0194,U037,education,Learning clustering for python is simple once you practice daily in my opinion,12,0,13,78,0.218,0,2026-09-13 10:24:00
+C0195,U116,technology,"This smartwatch review is spot on, the battery really stands out in my opinion",45,2,14,78,0.542,0,2026-09-17 02:57:00
+C0196,U001,travel,"Spent a week in Kathmandu, the trekking will stay in my memory forever really",30,0,14,77,0.116,0,2026-09-19 00:42:00
+C0197,U070,food,"This dal bhat recipe is delicious, the chili makes it so spicy honestly",12,1,13,71,0.794,0,2026-09-09 12:41:00
+C0198,U033,education,"Final year exam on machine learning is near, please share notes about normalization",17,1,13,83,-0.279,0,2026-09-12 17:42:00
+C0199,U014,food,"My family loved the pizza, the chili added a crispy",83,7,10,51,0.438,0,2026-09-02 00:28:00
+C0200,U083,sports,"What a match by Chennai, the teamwork from the captain was incredible in my opinion",17,2,15,83,0.322,0,2026-09-05 05:46:00
+C0201,U100,sports,Can Barcelona win the league with this bowling next season to be fair,53,2,13,69,0.028,0,2026-09-07 13:44:00
+C0202,U051,technology,"I think the phone camera is overrated, the price could be better honestly",34,2,13,73,0.802,0,2026-09-13 09:28:00
+C0203,U084,travel,"Planning a trip to Lumbini in winter, any tips on the views in my opinion",29,4,15,73,0.46,0,2026-09-07 12:04:00
+C0204,U064,technology,Anyone else having issues with the smartwatch price after the update,16,0,11,68,-0.269,0,2026-09-09 08:16:00
+C0205,U078,food,"Best momo in town, you must try it with extra butter really",4,0,12,59,0.612,0,2026-09-07 17:28:00
+C0206,U058,technology,The new phone has a great camera and the price is amazing,32,4,12,57,-0.148,0,2026-09-21 01:56:00
+C0207,U056,food,"Best pasta in town, you must try it with extra garlic honestly",16,2,12,62,0.159,0,2026-09-16 11:24:00
+C0208,U096,education,This machine learning course explains joins in a very interesting way in my opinion,26,1,14,83,0.314,0,2026-09-06 00:11:00
+C0209,U031,education,Learning normalization for machine learning is clear once you practice daily,282,26,11,76,0.142,0,2026-09-16 21:51:00
+C0210,U058,food,"My family loved the momo, the coriander added a creamy flavour to be fair",61,5,14,73,0.432,0,2026-09-08 12:41:00
+C0211,U041,food,"My family loved the pizza, the coriander added a tasty flavour really",10,0,12,69,0.6,0,2026-09-14 00:39:00
+C0212,U050,food,"I tried making biryani at home, the chili was too tasty really honestly",93,6,13,71,0.724,0,2026-09-03 16:29:00
+C0213,U118,technology,Anyone else having issues with the laptop price after the update to be fair,35,5,14,75,0.658,0,2026-09-17 18:38:00
+C0214,U104,technology,The new smartwatch has a great display and the software is amazing,135,5,12,66,0.269,0,2026-09-08 12:06:00
+C0215,U115,education,"Great lecture on pandas, the data science teacher made it interesting",14,1,11,69,0.907,0,2026-09-18 22:05:00
+C0216,U026,technology,"I think the tablet speaker is overrated, the design could be better",6,1,12,67,0.015,0,2026-09-12 22:10:00
+C0217,U103,technology,"Just bought the camera, the speaker works perfectly for daily use really",4,0,12,72,0.619,0,2026-09-19 03:38:00
+C0218,U053,technology,The new tablet has a great processor and the software is amazing honestly,5,1,13,73,0.397,0,2026-09-16 22:22:00
+C0219,U060,sports,"Barcelona played badly today, their passing needs improvement",34,4,8,61,-0.047,0,2026-09-20 07:55:00
+C0220,U065,food,"My family loved the dal bhat, the cheese added a creamy flavour really",3,1,13,70,1.0,0,2026-09-08 20:17:00
+C0221,U120,technology,"I think the tablet display is overrated, the design could be better",85,9,12,67,0.354,0,2026-09-10 04:45:00
+C0222,U071,food,"Best momo in town, you must try it with extra chili to be fair",10,1,14,62,0.165,0,2026-09-09 19:17:00
+C0223,U020,travel,"Visited Mustang last autumn, the weather was absolutely breathtaking honestly",3,1,10,77,0.282,0,2026-09-04 12:39:00
+C0224,U006,travel,"Mustang is overrated, the views was crowded and expensive",147,7,9,57,0.61,0,2026-09-21 03:04:00
+C0225,U004,sports,"Gorkhali played badly today, their batting needs serious improvement to be fair",4,1,12,79,0.506,0,2026-09-10 01:48:00
+C0226,U059,travel,"Chitwan is overrated, the culture was crowded and expensive",8,1,9,59,0.034,0,2026-09-08 20:31:00
+C0227,U019,technology,Anyone else having issues with the smartwatch price after the update honestly,2,1,12,77,0.289,0,2026-09-12 04:35:00
+C0228,U072,sports,"Proud of Madrid, the bowling in the second half changed the game honestly",38,2,13,73,0.14,0,2026-09-03 12:58:00
+C0229,U038,food,Can someone share a spicy pizza recipe with less cheese,50,6,10,55,0.828,0,2026-09-15 10:57:00
+C0230,U098,education,"I am struggling with pandas in databases, can anyone suggest a difficult resource",5,0,13,81,0.37,0,2026-09-04 22:18:00
+C0231,U065,education,"Great lecture on normalization, the machine learning teacher made it simple really",21,0,12,82,-0.549,0,2026-09-15 21:29:00
+C0232,U113,food,"This momo recipe is delicious, the chili makes it so crispy honestly",11,1,12,68,-0.459,0,2026-09-10 00:24:00
+C0233,U094,sports,"What a match by Nepal, the batting from the captain was incredible",55,5,12,66,0.221,0,2026-09-10 01:55:00
+C0234,U047,food,"My family loved pizza, the chili added a spicy flavour",7,2,10,54,0.625,0,2026-09-08 06:31:00
+C0235,U017,technology,"This tablet review is spot on, the speaker really stands out",12,1,11,60,-0.008,0,2026-09-12 03:12:00
+C0236,U078,food,"Best dal bhat in town, you must try it with extra chili",19,3,12,55,1.0,0,2026-09-08 07:35:00
+C0237,U067,travel,"Visited Lumbini last monsoon, the trekking was breathtaking to be fair",39,4,11,70,0.349,0,2026-09-13 04:47:00
+C0238,U079,travel,"Mustang is overrated, the food was crowded and expensive really",60,10,10,63,0.212,0,2026-09-05 02:50:00
+C0239,U061,food,"My family loved the dal bhat, the butter added a sweet flavour",3,1,12,62,0.085,0,2026-09-17 17:36:00
+C0240,U061,food,Can someone share a spicy dal bhat recipe with less chili honestly,4,1,12,66,-0.175,0,2026-09-05 05:12:00
+C0241,U062,travel,"Spent a week in Mustang, the views will stay in my memory forever honestly",64,2,14,74,1.0,0,2026-09-09 02:47:00
+C0242,U090,travel,Highly recommend Kathmandu during autumn for the views alone honestly,66,5,10,69,0.837,0,2026-09-02 03:37:00
+C0243,U100,technology,"I think the smartwatch display is overrated, the software could be better honestly",3,0,13,82,0.26,0,2026-09-07 01:14:00
+C0244,U042,travel,"Visited Kathmandu last monsoon, the food was absolutely breathtaking honestly",42,2,10,77,0.501,0,2026-09-01 14:46:00
+C0245,U046,travel,"Planning a trip to Chitwan in monsoon, any tips on the trekking honestly",55,4,13,72,0.244,0,2026-09-12 19:24:00
+C0246,U036,education,"Great lecture on clustering, the python teacher made it clear",8,0,10,61,0.052,0,2026-09-06 07:11:00
+C0247,U062,technology,"Just bought the tablet, the display works perfectly for daily use",191,23,11,65,0.297,0,2026-09-17 18:55:00
+C0248,U070,education,"Great lecture on normalization, the databases teacher made it interesting to be fair",26,4,13,84,-0.018,0,2026-09-09 05:31:00
+C0249,U011,education,"I am struggling with normalization in databases, can anyone suggest a difficult resource to be fair",22,1,16,99,-0.317,0,2026-09-18 08:09:00
+C0250,U120,food,Can someone share a sweet pizza recipe with less cheese,8,1,10,55,0.347,0,2026-09-08 05:00:00
+C0251,U116,food,"My family loved the pizza, the garlic added a tasty flavour in my opinion to be fair",33,4,17,84,0.449,0,2026-09-12 17:13:00
+C0252,U013,travel,"Planning a trip to Lumbini in winter, any tips on the food really",12,3,13,65,-0.078,0,2026-09-16 16:03:00
+C0253,U026,technology,"I think the smartwatch processor is overrated, the software could be better to be fair",48,3,15,86,0.004,0,2026-09-03 10:40:00
+C0254,U095,food,"This momo recipe is delicious, the coriander makes it so creamy honestly",5,0,12,72,0.312,0,2026-09-14 22:03:00
+C0255,U051,education,"I am struggling with regression in machine learning, can anyone suggest a simple resource in my opinion",13,0,17,103,0.309,0,2026-09-09 10:55:00
+C0256,U078,technology,"Just bought the phone, the battery works perfectly for daily use honestly",6,0,12,73,-0.059,0,2026-09-19 11:22:00
+C0257,U065,education,Learning clustering for python is clear once you practice daily in my opinion,10,1,13,77,-0.329,0,2026-09-01 20:49:00
+C0258,U033,technology,"Just bought the camera, the processor works perfectly for daily",41,4,10,63,-0.342,0,2026-09-09 08:23:00
+C0259,U110,technology,"Just bought the camera, the display works perfectly for daily use honestly",37,1,12,74,0.77,0,2026-09-10 09:11:00
+C0260,U018,food,"Best momo in town, you must try it with extra butter",69,7,11,52,1.0,0,2026-09-04 06:55:00
+C0261,U035,education,"I am struggling with normalization in python, can anyone suggest a difficult resource in my opinion in my opinion",62,9,19,113,0.188,0,2026-09-01 19:01:00
+C0262,U086,food,"This biryani recipe is delicious, the chili makes it so creamy",37,2,11,62,0.427,0,2026-09-01 11:27:00
+C0263,U079,food,"My family loved the biryani, the garlic added a tasty flavour",3,1,11,61,-0.238,0,2026-09-10 20:31:00
+C0264,U071,education,"Final year exam on python is near, please share notes about joins to be fair",66,8,15,76,0.363,0,2026-09-15 12:21:00
+C0265,U058,sports,"Barcelona played badly today, their teamwork needs serious improvement honestly",49,4,10,79,-0.14,0,2026-09-12 13:23:00
+C0266,U074,food,"This momo recipe is delicious, the coriander makes it so sweet",6,0,11,62,0.089,0,2026-09-12 22:44:00
+C0267,U012,technology,Anyone else having issues with the phone build quality after the update really,5,0,13,78,-0.052,0,2026-09-05 00:19:00
+C0268,U073,food,"I tried making dal bhat at home, butter was too creamy to be fair",24,2,14,65,0.366,0,2026-09-08 13:02:00
+C0269,U028,travel,"Visited Chitwan last winter, the views was absolutely breathtaking to be fair",21,5,12,77,0.265,0,2026-09-07 01:44:00
+C0270,U005,technology,The new camera has a great battery and the performance is amazing really,12,3,13,72,0.01,0,2026-09-15 16:03:00
+C0271,U118,technology,Anyone else having issues with the tablet software after the update in my opinion,6,2,14,81,0.306,0,2026-09-03 02:10:00
+C0272,U069,food,"My family loved the pizza, the chili added a spicy flavour",6,0,11,58,0.293,0,2026-09-12 06:31:00
+C0273,U093,technology,The new phone has a great camera and the software is amazing to be fair,57,3,15,71,-0.986,0,2026-09-21 07:23:00
+C0274,U025,travel,"Planning a trip to Chitwan in winter, any tips on the food",21,1,12,58,-0.391,0,2026-09-10 03:17:00
+C0275,U099,sports,"Proud of Madrid, the bowling in the second half the game honestly",3,0,12,65,0.54,0,2026-09-10 22:28:00
+C0276,U077,education,This data science course explains pandas in a very simple way really,15,0,12,68,0.672,0,2026-09-04 00:10:00
+C0277,U028,education,This machine learning course explains clustering in a very clear way honestly,40,2,12,77,0.631,0,2026-09-05 02:48:00
+C0278,U077,sports,"Proud of Barcelona, the teamwork in the second half changed the game honestly",9,0,13,77,0.399,0,2026-09-18 16:15:00
+C0279,U036,sports,"Gorkhali played badly today, their bowling needs serious improvement",20,3,9,68,-0.155,0,2026-09-07 14:11:00
+C0280,U045,education,"I am struggling with pandas in machine learning, can anyone suggest a practical resource",57,7,14,88,0.299,0,2026-09-05 14:20:00
+C0281,U049,sports,"Proud of Madrid, the batting in the second half changed the game",10,0,12,64,-0.807,0,2026-09-06 17:18:00
+C0282,U072,travel,"Planning a trip to Lumbini in autumn, any tips on the culture",137,8,12,61,0.578,0,2026-09-20 13:00:00
+C0283,U083,food,Can someone share a creamy pizza recipe with less chili,19,0,10,55,0.603,0,2026-09-04 15:55:00
+C0284,U087,food,"My family loved the pizza, the garlic added a tasty flavour really",19,1,12,66,1.0,0,2026-09-08 19:09:00
+C0285,U086,technology,"Just bought the camera, the display works perfectly for daily use",12,1,11,65,-0.11,0,2026-09-11 02:16:00
+C0286,U095,travel,"Lumbini is overrated, the food was crowded and expensive",61,3,9,56,0.412,0,2026-09-03 13:11:00
+C0287,U071,education,"I am struggling with regression in python, can anyone suggest a practical resource",70,5,13,82,-0.242,0,2026-09-07 12:26:00
+C0288,U113,food,"Best biryani in town, you must try it with extra chili honestly",1,0,12,63,0.366,0,2026-09-17 15:12:00
+C0289,U053,technology,Anyone else having issues with the tablet price after the update,9,1,11,64,0.259,0,2026-09-06 06:03:00
+C0290,U093,education,This databases course explains pandas in a very interesting way honestly,183,6,11,72,0.198,0,2026-09-03 17:36:00
+C0291,U084,technology,Anyone else having issues with the camera software after the update honestly,8,0,12,76,0.655,0,2026-09-08 04:26:00
+C0292,U102,food,Can someone share a creamy pasta recipe with less butter to be fair,10,0,13,67,0.818,0,2026-09-07 13:24:00
+C0293,U108,technology,"I think the camera battery is overrated, the build quality could be better",74,2,13,74,0.452,0,2026-09-09 07:23:00
+C0294,U091,education,This machine learning course explains regression in a very clear way,24,3,11,68,0.236,0,2026-09-13 23:31:00
+C0295,U063,technology,The new camera has a great speaker and the software is amazing to be fair,86,10,15,73,0.395,1,2026-09-18 18:18:00
+C0296,U003,travel,"Visited Mustang last winter, the weather was absolutely breathtaking",8,0,9,68,0.371,0,2026-09-16 03:25:00
+C0297,U031,sports,"Nepal played badly today, their defence needs serious improvement",192,24,9,65,-0.286,0,2026-09-11 01:56:00
+C0298,U059,travel,"Chitwan is overrated, the trekking was crowded and expensive really",19,0,10,67,1.0,0,2026-09-21 04:04:00
+C0299,U049,education,This data science course explains normalization in a very practical way really,51,10,12,78,-0.054,0,2026-09-18 19:33:00
+C0300,U056,technology,"Just bought the camera, the processor works perfectly for daily use in my opinion",8,1,14,81,0.518,0,2026-09-10 09:37:00
+C0301,U116,food,"This dal bhat recipe is delicious, the garlic makes it so creamy",31,3,12,64,0.172,0,2026-09-18 17:16:00
+C0302,U085,education,This data science course explains joins in a very interesting way honestly,102,7,12,74,-0.023,0,2026-09-17 01:43:00
+C0303,U039,education,"I am struggling with regression in python, can anyone suggest a practical resource",15,0,13,82,0.143,0,2026-09-19 07:00:00
+C0304,U095,food,Can someone share a crispy dal bhat recipe with less chili in my opinion,13,0,14,72,0.614,0,2026-09-08 07:27:00
+C0305,U030,education,Learning normalization for databases is simple once you practice daily really,10,1,11,77,0.356,0,2026-09-11 10:46:00
+C0306,U035,food,"My family loved the pasta, the chili added a spicy flavour to be fair",109,12,14,69,0.731,0,2026-09-17 20:02:00
+C0307,U075,food,"My family loved the pasta, the butter added a creamy flavour to be fair",134,16,14,71,0.26,0,2026-09-02 14:28:00
+C0308,U049,technology,"I think the phone battery is overrated, the price could be better",13,1,12,65,0.056,0,2026-09-08 20:22:00
+C0309,U040,travel,"Lumbini is overrated, the views was crowded and expensive",229,11,9,57,0.196,0,2026-09-05 22:43:00
+C0310,U072,sports,"What a match by Barcelona, the passing from the captain was incredible in my opinion really",193,18,16,91,0.523,0,2026-09-20 15:55:00
+C0311,U077,food,"Best dal bhat in town, you must try it extra garlic honestly",19,0,12,60,0.859,0,2026-09-10 03:33:00
+C0312,U093,education,"Great lecture on joins, the databases teacher made it simple",64,5,10,60,0.447,0,2026-09-05 16:16:00
+C0313,U018,education,Learning regression for python is practical once you practice daily,7,0,10,67,0.103,0,2026-09-14 15:54:00
+C0314,U062,food,"I tried making pasta at home, the chili was too crispy",39,2,11,54,0.644,0,2026-09-10 00:05:00
+C0315,U014,food,Can someone share a creamy dal bhat recipe with less coriander really,76,6,12,69,0.604,0,2026-09-07 02:49:00
+C0316,U056,technology,"This smartwatch review is spot on, the camera really stands out",23,2,11,63,-0.419,0,2026-09-04 19:37:00
+C0317,U026,education,"I am struggling with joins in databases, can anyone suggest a interesting resource to be fair",35,2,16,93,-0.036,0,2026-09-15 00:35:00
+C0318,U032,technology,"Just bought the tablet, the processor works perfectly for daily use in my opinion",22,0,14,81,0.251,0,2026-09-20 09:12:00
+C0319,U070,food,"Best momo in town, you must try it with extra coriander honestly",29,2,12,64,0.016,0,2026-09-10 05:55:00
+C0320,U057,sports,Gorkhali played badly their bowling needs serious improvement,7,2,8,61,-0.234,0,2026-09-02 17:34:00
+C0321,U018,education,Learning regression for python is practical once practice daily,103,3,9,63,0.055,0,2026-09-14 07:21:00
+C0322,U062,food,Can someone share a crispy pasta recipe with less garlic honestly,2,0,11,65,0.674,0,2026-09-20 13:57:00
+C0323,U115,travel,Highly recommend Mustang during spring for the trekking alone to be fair,26,2,12,72,0.331,0,2026-09-03 02:19:00
+C0324,U079,travel,"Visited Kathmandu last winter, the food was absolutely breathtaking to be fair",36,4,12,78,0.739,0,2026-09-20 00:48:00
+C0325,U013,education,"Final year exam on databases is near, please share notes about clustering",33,2,12,73,0.138,0,2026-09-06 10:25:00
+C0326,U051,travel,"Spent a week in Mustang, the culture will stay in my memory forever",10,0,13,67,0.87,0,2026-09-01 17:57:00
+C0327,U038,sports,"Chennai played badly today, their defence needs serious improvement",61,3,9,67,1.0,0,2026-09-09 13:41:00
+C0328,U044,education,This data science course explains normalization in a very practical way really,219,17,12,78,0.479,0,2026-09-11 07:17:00
+C0329,U009,technology,Anyone else having issues with the phone software after the update,32,3,11,66,0.516,0,2026-09-07 06:15:00
+C0330,U120,sports,Can Madrid the league with this teamwork next season,14,2,9,52,0.178,0,2026-09-08 20:00:00
+C0331,U030,food,"I tried making biryani at home, the coriander was too crispy really",9,0,12,67,0.12,0,2026-09-07 18:43:00
+C0332,U058,travel,Highly recommend Chitwan during spring for the weather alone,22,2,9,60,0.869,0,2026-09-11 16:59:00
+C0333,U103,food,"I tried making biryani at home, the garlic was too sweet",114,9,11,56,0.533,0,2026-09-05 04:26:00
+C0334,U082,technology,Anyone else having issues with the phone software after the update honestly,22,2,12,75,-0.303,0,2026-09-06 08:39:00
+C0335,U023,food,"This biryani recipe is delicious, the chili makes it so crispy honestly",12,2,12,71,0.848,0,2026-09-15 03:49:00
+C0336,U016,sports,The coach of Gorkhali deserves credit for the defence this month,9,2,11,64,0.46,0,2026-09-04 04:55:00
+C0337,U018,technology,"I think the camera processor is overrated, the software could be better honestly",329,31,13,80,0.264,0,2026-09-18 19:48:00
+C0338,U037,food,"My family loved the pizza, the coriander added a creamy flavour really",194,20,12,70,0.026,0,2026-09-06 07:43:00
+C0339,U025,food,"This biryani recipe is delicious, the garlic makes it so crispy",19,0,11,63,0.506,0,2026-09-13 04:13:00
+C0340,U108,education,"Final year exam on machine learning is near, please share notes about clustering to be fair",6,1,16,91,0.3,0,2026-09-07 04:38:00
+C0341,U069,technology,"I think the tablet battery is overrated, the price could be better",30,1,12,66,-0.07,0,2026-09-19 17:55:00
+C0342,U015,sports,Can Gorkhali win the league with this teamwork next season honestly,8,2,11,67,0.309,0,2026-09-12 15:39:00
+C0343,U055,travel,"Spent a week in Pokhara, the weather will stay in my memory forever",4,0,13,67,0.679,0,2026-09-10 13:09:00
+C0344,U111,education,"Great lecture on clustering, the data science teacher made it difficult",11,0,11,71,0.497,0,2026-09-03 15:48:00
+C0345,U091,food,"I tried making pizza at home, the coriander was too tasty in my opinion",10,2,14,71,0.974,0,2026-09-02 02:18:00
+C0346,U069,food,"I tried making pizza at home, the garlic was too sweet",76,8,11,54,0.932,0,2026-09-01 10:35:00
+C0347,U066,travel,"Lumbini is overrated, the trekking was crowded and expensive in my opinion",7,2,12,74,0.476,0,2026-09-18 20:15:00
+C0348,U111,sports,What a match by the batting from the captain was incredible,91,4,11,59,0.454,0,2026-09-09 08:45:00
+C0349,U019,sports,"Chennai played badly today, their bowling needs serious improvement really",29,2,10,74,0.177,0,2026-09-17 19:58:00
+C0350,U096,food,Can someone share a crispy momo recipe with less garlic honestly,31,2,11,64,0.316,0,2026-09-11 21:43:00
+C0351,U100,education,"Final year exam on databases is near, please share notes about pandas in my opinion",4,0,15,83,-0.053,0,2026-09-11 18:37:00
+C0352,U055,technology,"Just bought the phone, the speaker works perfectly for daily use",26,0,11,64,0.178,0,2026-09-07 10:27:00
+C0353,U073,travel,"Lumbini is overrated, the weather was crowded and expensive",19,0,9,59,0.194,0,2026-09-11 17:09:00
+C0354,U016,sports,"What a match by Nepal, the defence from the captain was incredible",43,4,12,66,-0.052,0,2026-09-12 05:26:00
+C0355,U112,technology,Anyone else having issues with the laptop price after the update,60,5,11,64,0.92,0,2026-09-14 14:27:00
+C0356,U051,food,"Best momo in town, you must try it with extra chili",15,0,11,51,0.278,0,2026-09-09 09:59:00
+C0357,U062,sports,Can Nepal win the league with this defence next season,50,2,10,54,-0.093,0,2026-09-01 08:40:00
+C0358,U016,travel,Highly recommend Pokhara during spring for the trekking alone in my opinion,32,3,12,75,0.615,0,2026-09-03 02:04:00
+C0359,U104,food,"This pizza recipe is delicious, the butter makes it so spicy to be fair",11,1,14,71,0.678,0,2026-09-19 12:01:00
+C0360,U068,food,"I tried making pasta at home, the cheese was too creamy",155,10,11,55,0.701,0,2026-09-06 18:51:00
+C0361,U088,travel,"Kathmandu is overrated, the culture was crowded and expensive honestly",26,4,10,70,0.525,0,2026-09-20 01:15:00
+C0362,U055,technology,"I think the phone speaker is overrated, the software could be better",18,0,12,68,0.506,0,2026-09-10 07:46:00
+C0363,U093,technology,The new laptop has a great speaker and the build quality is amazing honestly,17,2,14,76,0.534,0,2026-09-15 07:24:00
+C0364,U025,sports,"Proud of Barcelona, the teamwork in the second half changed the game honestly",93,8,13,77,0.488,0,2026-09-15 11:49:00
+C0365,U031,food,"My family loved the pizza, the garlic added a tasty flavour in my opinion",17,1,14,73,0.335,0,2026-09-07 12:41:00
+C0366,U111,travel,"Visited Lumbini last winter, the food was absolutely breathtaking really",16,1,10,72,0.407,0,2026-09-08 03:56:00
+C0367,U009,food,"I tried making pasta at home, the garlic was too spicy honestly",4,1,12,63,0.371,1,2026-09-05 08:48:00
+C0368,U054,technology,Anyone else having issues with the camera build quality after the update in my opinion,16,0,15,86,0.202,0,2026-09-19 05:49:00
+C0369,U040,food,"My family loved the dal bhat, the cheese added a tasty flavour",27,2,12,62,0.501,0,2026-09-13 04:47:00
+C0370,U082,education,"I am struggling with joins in python, can anyone suggest a practical resource honestly",2,1,14,86,0.19,0,2026-09-10 23:00:00
+C0371,U012,travel,"Chitwan is overrated, the views was crowded and expensive",51,3,9,57,0.099,0,2026-09-16 18:07:00
+C0372,U091,technology,The new tablet has a great display and the performance is amazing,12,1,12,65,-0.029,0,2026-09-09 09:15:00
+C0373,U048,technology,"Just bought the camera, the speaker works perfectly for daily use",29,2,11,65,0.469,0,2026-09-17 01:10:00
+C0374,U068,sports,"What a match by Nepal, the passing from the captain was incredible",48,2,12,66,0.287,0,2026-09-05 02:43:00
+C0375,U008,sports,"What a match by Madrid, the batting from the captain was incredible",8,0,12,67,-0.673,0,2026-09-02 13:34:00
+C0376,U095,travel,"Pokhara is overrated, the views was crowded and expensive",107,8,9,57,0.128,0,2026-09-10 00:17:00
+C0377,U118,technology,"I think the phone processor is overrated, the price could be better really",14,2,13,74,0.089,0,2026-09-01 14:26:00
+C0378,U054,education,Learning regression for machine learning is difficult once you practice daily,5,0,11,77,0.188,0,2026-09-21 05:49:00
+C0379,U116,food,"My family loved the biryani, the garlic added a sweet flavour to be fair",1,0,14,72,0.945,0,2026-09-02 17:18:00
+C0380,U037,technology,The new smartwatch has a great battery and the software is amazing in my opinion,2,1,15,80,0.456,0,2026-09-02 14:19:00
+C0381,U038,food,"My family loved the dal bhat, the cheese added a creamy flavour really",63,5,13,70,0.283,0,2026-09-02 14:23:00
+C0382,U100,food,Can someone share a crispy biryani recipe with less coriander in my opinion,27,3,13,75,0.491,0,2026-09-08 10:33:00
+C0383,U030,education,"I am struggling with normalization in statistics, can anyone suggest a practical resource",14,1,13,89,0.124,0,2026-09-03 16:01:00
+C0384,U095,travel,"Visited Lumbini last spring, the culture was absolutely breathtaking in my opinion",15,0,12,82,-0.125,0,2026-09-19 12:07:00
+C0385,U092,technology,"I think the smartwatch processor is overrated, the performance could be better",25,1,12,78,-0.541,0,2026-09-09 03:26:00
+C0386,U011,technology,"This smartwatch review is spot on, the camera really stands out to be fair",17,1,14,74,-0.05,0,2026-09-17 04:52:00
+C0387,U056,travel,Highly recommend Pokhara during monsoon for the weather alone,77,5,9,61,0.339,0,2026-09-15 01:59:00
+C0388,U035,technology,"Just bought the smartwatch, the camera works perfectly for daily use really",36,1,12,75,0.202,0,2026-09-11 06:45:00
+C0389,U058,education,Learning regression for data science is simple once you practice daily,17,1,11,70,0.408,0,2026-09-17 01:32:00
+C0390,U110,food,"I tried making pasta at home, the chili was too crispy",2,1,11,54,0.276,0,2026-09-05 17:13:00
+C0391,U012,technology,"This phone review is spot on, the display really stands out",11,2,11,59,-0.6,0,2026-09-18 22:52:00
+C0392,U052,education,This databases course explains joins in a very clear way,3,0,10,56,-0.37,0,2026-09-09 21:55:00
+C0393,U002,travel,"Visited Chitwan last spring, the food was absolutely breathtaking",19,1,9,65,0.439,0,2026-09-16 03:00:00
+C0394,U076,sports,"Madrid played badly today, their passing needs serious improvement honestly",15,1,10,75,0.53,0,2026-09-18 01:54:00
+C0395,U057,sports,"Madrid played badly today, their batting needs serious improvement honestly to be fair",20,1,13,86,-0.363,0,2026-09-01 10:18:00
+C0396,U022,technology,"Just bought the phone, the battery works perfectly for daily use",2,0,11,64,0.462,0,2026-09-19 07:19:00
+C0397,U046,food,Can someone share a crispy momo recipe with less butter,11,2,10,55,0.598,0,2026-09-07 21:09:00
+C0398,U032,technology,"I think the phone speaker is overrated, the build quality could be better honestly",173,11,14,82,0.595,0,2026-09-02 05:47:00
+C0399,U018,travel,Highly recommend Pokhara during spring for the trekking alone really,33,3,10,68,0.566,0,2026-09-19 16:21:00
+C0400,U092,travel,"Planning a trip to Mustang in spring, any tips on the culture in my opinion",66,4,15,75,0.334,0,2026-09-01 17:17:00
+C0401,U024,travel,"Spent a week in Mustang, the culture will stay in my memory forever",20,0,13,67,0.529,1,2026-09-17 13:07:00
+C0402,U068,travel,"Spent a week in Mustang, the views will stay in my memory forever honestly really",26,1,15,81,0.666,0,2026-09-20 19:44:00
+C0403,U069,travel,"Planning a trip to Pokhara in autumn, any tips on the food",2,0,12,58,0.978,0,2026-09-10 08:31:00
+C0404,U103,education,This databases course explains joins in a very clear way in my opinion,398,32,13,70,0.056,0,2026-09-05 14:22:00
+C0405,U104,education,"I am struggling with regression in statistics, can anyone suggest a interesting resource",82,3,13,88,0.284,0,2026-09-02 23:44:00
+C0406,U025,food,"Best dal bhat in town, you must try it with extra coriander honestly",38,2,13,68,-0.629,0,2026-09-20 03:43:00
+C0407,U012,sports,The coach of Chennai deserves credit for the bowling this week,21,3,11,62,0.478,0,2026-09-12 09:06:00
+C0408,U026,travel,Highly recommend Pokhara during spring for the trekking alone really honestly,57,1,11,77,0.48,0,2026-09-02 02:08:00
+C0409,U091,food,"Best momo in town, you must try it with extra garlic honestly",75,1,12,61,-0.104,0,2026-09-10 07:35:00
+C0410,U013,sports,"Proud of Nepal, the passing in the second half changed the game honestly",43,4,13,72,0.514,0,2026-09-16 05:01:00
+C0411,U072,food,Can someone share a creamy pasta recipe with less chili to be fair,57,1,13,66,0.005,0,2026-09-15 05:59:00
+C0412,U094,education,"I am struggling with regression in python, can anyone suggest a practical resource",22,1,13,82,0.103,0,2026-09-20 22:20:00
+C0413,U078,technology,"This smartwatch review is spot on, the speaker really stands out",9,1,11,64,0.318,0,2026-09-12 05:57:00
+C0414,U096,sports,The coach of Nepal deserves credit for the batting this month,3,0,11,61,-0.167,0,2026-09-20 00:38:00
+C0415,U027,food,"This biryani recipe is delicious, the butter makes it so spicy",3,0,11,62,0.135,0,2026-09-05 06:46:00
+C0416,U094,technology,The new phone has a great battery and the software is amazing really,14,1,13,68,0.422,0,2026-09-12 03:52:00
+C0417,U107,technology,Anyone else having issues with the tablet software after the update,12,1,11,67,-0.284,0,2026-09-12 20:06:00
+C0418,U109,education,"I am struggling with clustering in statistics, can anyone suggest a simple resource in my opinion",0,0,16,97,0.214,0,2026-09-16 13:59:00
+C0419,U021,technology,The new phone has a great camera and the design is amazing really,191,16,13,65,0.486,0,2026-09-12 14:37:00
+C0420,U091,travel,"Visited Lumbini last monsoon, the weather was absolutely breathtaking really",33,2,10,76,0.477,0,2026-09-05 05:10:00
+C0421,U027,education,"Final year exam on statistics is near, please share notes about normalization",9,0,12,77,0.695,0,2026-09-12 04:49:00
+C0422,U013,food,"My family loved the biryani, the chili added a tasty flavour",29,0,11,60,0.068,0,2026-09-11 01:47:00
+C0423,U012,travel,"Planning a trip to Pokhara in winter, any tips on the views really",7,0,13,66,0.225,0,2026-09-14 00:28:00
+C0424,U082,sports,"Nepal played badly today, their defence needs serious improvement",14,1,9,65,0.154,0,2026-09-17 04:52:00
+C0425,U034,technology,"Just bought the smartwatch, the processor works perfectly for daily use to be fair",24,5,14,82,-0.169,0,2026-09-12 09:27:00
+C0426,U034,travel,Highly recommend Lumbini during autumn for the culture alone,18,2,9,60,0.994,0,2026-09-05 17:18:00
+C0427,U086,food,"My family loved the momo, the cheese added a spicy flavour",35,6,11,58,0.114,0,2026-09-06 06:42:00
+C0428,U050,travel,"Spent a week in Kathmandu, the views will stay in my memory forever in my opinion",20,2,16,81,-0.04,0,2026-09-02 09:19:00
+C0429,U011,food,Can someone share a crispy dal bhat recipe with less cheese,10,0,11,59,-0.027,0,2026-09-07 15:23:00
+C0430,U058,education,"Great lecture on normalization, the data science teacher made it difficult in my opinion in my opinion",14,1,17,102,0.265,0,2026-09-11 21:53:00
+C0431,U088,education,"I am struggling with normalization in statistics, can anyone suggest a practical resource",39,4,13,89,-0.249,0,2026-09-18 12:17:00
+C0432,U050,education,Learning joins for databases is simple once you practice daily,42,3,10,62,0.092,0,2026-09-13 02:03:00
+C0433,U067,travel,"Spent a week in Chitwan, the weather will stay in my memory forever honestly",7,1,14,76,0.523,0,2026-09-11 10:42:00
+C0434,U073,technology,"This camera review is spot on, the speaker really stands out",60,5,11,60,0.381,0,2026-09-04 00:01:00
+C0435,U063,sports,"Proud of Madrid, the passing in the second half changed the game to be fair",15,1,15,75,-0.824,0,2026-09-03 14:13:00
+C0436,U089,travel,Highly recommend Kathmandu during monsoon for the weather alone to be fair,54,3,12,74,-0.032,0,2026-09-04 06:14:00
+C0437,U003,food,"I tried making momo at home, the butter was too tasty",44,3,11,53,0.651,0,2026-09-05 08:58:00
+C0438,U096,sports,Can Nepal win the league with this bowling next month,3,0,10,53,-0.374,0,2026-09-20 19:18:00
+C0439,U028,sports,Can Gorkhali win the league with this defence next month really,22,1,11,63,0.642,0,2026-09-10 22:39:00
+C0440,U021,food,"My family loved the biryani, the garlic added a sweet flavour in my opinion",159,14,14,75,0.675,0,2026-09-15 18:26:00
+C0441,U113,sports,The coach of Gorkhali deserves credit for the defence this month,41,3,11,64,0.337,0,2026-09-07 08:40:00
+C0442,U048,education,"Final year exam on data science is near, please share notes about joins",23,1,13,71,0.373,0,2026-09-12 15:39:00
+C0443,U077,travel,"Visited Pokhara last autumn, the trekking was absolutely breathtaking really",20,1,10,76,0.381,0,2026-09-12 20:56:00
+C0444,U115,education,Learning joins for databases is clear once you practice daily in my opinion,41,6,13,75,-0.153,0,2026-09-10 14:59:00
+C0445,U110,education,"Great lecture on pandas, the python teacher made it clear",114,8,10,57,-0.205,0,2026-09-19 19:48:00
+C0446,U003,education,"I am struggling with joins in statistics, can anyone suggest a practical resource honestly",3,0,14,90,0.145,0,2026-09-02 12:16:00
+C0447,U002,education,"Final year exam on statistics is near, please share notes about regression in my opinion",20,1,15,88,0.355,0,2026-09-05 19:00:00
+C0448,U033,travel,"Chitwan is overrated, the trekking was crowded and expensive really",22,3,10,67,0.444,0,2026-09-09 07:26:00
+C0449,U066,food,"My family loved the pasta, the coriander added a spicy flavour",4,0,11,62,0.307,0,2026-09-20 15:28:00
+C0450,U088,education,Learning pandas for python is difficult once you practice daily,1,1,10,63,0.359,0,2026-09-10 06:27:00
+C0451,U020,technology,"Just bought the tablet, the camera works perfectly for daily use",3,0,11,64,0.362,0,2026-09-06 07:46:00
+C0452,U052,food,"My family loved the biryani, the garlic added a flavour in my opinion",11,0,13,69,0.2,0,2026-09-19 06:59:00
+C0453,U050,sports,Can Chennai win the league with this passing next week really,36,5,11,61,0.366,0,2026-09-14 09:13:00
+C0454,U101,travel,"Planning a trip to Lumbini in autumn, any tips on the weather to be fair",146,9,15,72,0.233,0,2026-09-16 07:02:00
+C0455,U013,education,"Great lecture on pandas, the statistics teacher made it clear",37,6,10,61,0.296,0,2026-09-14 06:01:00
+C0456,U046,sports,The coach of Barcelona deserves credit for the passing this season,53,3,11,66,-0.058,0,2026-09-06 14:58:00
+C0457,U060,education,"Great lecture on joins, the databases teacher made it interesting",939,78,10,65,-0.362,0,2026-09-03 00:51:00
+C0458,U114,travel,"Spent a week in Mustang, the views will stay in my memory forever really",26,4,14,72,0.353,0,2026-09-08 09:55:00
+C0459,U110,technology,"This tablet review is spot on, the processor really stands out in my opinion",2,4,14,76,0.764,0,2026-09-10 02:02:00
+C0460,U092,education,Learning regression for machine learning is difficult once you practice daily in my opinion,12,2,14,91,0.39,0,2026-09-10 12:34:00
+C0461,U036,technology,"I think the tablet battery is overrated, the performance could be better really",2,1,13,79,-0.067,0,2026-09-11 10:14:00
+C0462,U056,sports,"Madrid played badly today, their defence needs serious improvement honestly",16,2,10,75,0.423,0,2026-09-20 06:11:00
+C0463,U094,food,Can someone share a sweet momo recipe with less garlic,9,0,10,54,0.123,0,2026-09-21 07:43:00
+C0464,U094,technology,"This laptop review is spot on, the battery really stands out to be fair",13,0,14,71,0.355,0,2026-09-12 21:34:00
+C0465,U040,sports,"Nepal played badly today, their batting needs serious improvement honestly",17,0,10,74,0.462,0,2026-09-09 08:26:00
+C0466,U044,sports,"Proud of Madrid, the teamwork in the second half changed the game honestly",11,2,13,74,0.435,0,2026-09-21 02:42:00
+C0467,U052,sports,Can Chennai win the league with this bowling next month in my opinion,0,0,13,69,0.537,1,2026-09-17 09:55:00
+C0468,U016,technology,"I think the phone speaker is overrated, the build quality could be better",11,0,13,73,0.171,0,2026-09-18 06:21:00
+C0469,U077,travel,"is overrated, the views was crowded and expensive",288,14,8,49,0.6,0,2026-09-21 02:32:00
+C0470,U049,sports,"What a match by Nepal, the defence from the captain was incredible really",6,0,13,73,-0.28,0,2026-09-05 08:50:00
+C0471,U013,food,"I tried making momo at home, the chili was too crispy to be fair",67,8,14,64,0.082,0,2026-09-15 21:35:00
+C0472,U080,food,"I tried making pasta at home, the garlic was too sweet to be fair",100,8,14,65,-0.202,0,2026-09-20 04:08:00
+C0473,U107,technology,"Just bought the camera, camera works perfectly for daily use",33,2,10,60,0.149,0,2026-09-03 06:40:00
+C0474,U117,technology,"Just bought the laptop, the battery works perfectly for daily use really",180,19,12,72,1.0,0,2026-09-06 09:03:00
+C0475,U074,education,This data science course explains normalization in a very simple way in my opinion,12,0,14,82,0.48,0,2026-09-01 19:20:00
+C0476,U013,technology,"I think the camera processor is overrated, the software could be better honestly to be fair",10,0,16,91,-0.185,0,2026-09-07 22:43:00
+C0477,U105,travel,"Lumbini is overrated, the views was crowded and expensive",45,4,9,57,0.699,0,2026-09-02 03:11:00
+C0478,U098,technology,"Just bought the smartwatch, the battery works perfectly for daily use in my opinion",12,3,14,83,0.305,0,2026-09-17 11:35:00
+C0479,U035,technology,"I think the tablet camera is overrated, the software could be better honestly",53,4,13,77,0.401,0,2026-09-01 14:29:00
+C0480,U035,technology,"I think the phone processor is overrated, the software could be better really",31,5,13,77,0.094,0,2026-09-08 19:18:00
+C0481,U093,sports,Can Barcelona win the league with this defence next month to be fair,32,4,13,68,0.036,0,2026-09-07 00:00:00
+C0482,U057,education,"Final year exam on python is near, please share notes about clustering to be fair",2,0,15,81,0.293,0,2026-09-12 19:23:00
+C0483,U114,food,"This pizza recipe is delicious, the butter makes it so crispy",3,1,11,61,0.789,0,2026-09-05 16:21:00
+C0484,U073,technology,"Just bought the phone, the speaker works perfectly for daily use to be fair",9,0,14,75,-0.247,0,2026-09-15 04:24:00
+C0485,U085,education,Learning pandas for python is simple once you practice daily really,5,0,11,67,0.583,0,2026-09-14 12:30:00
+C0486,U002,travel,Highly recommend Kathmandu during monsoon for the weather alone,24,2,9,63,0.286,0,2026-09-17 03:02:00
+C0487,U031,technology,Anyone else having issues with the laptop software after the update,106,6,11,67,0.027,0,2026-09-16 23:44:00
+C0488,U059,food,"My family loved the pasta, the butter added a creamy flavour",22,2,11,60,0.071,0,2026-09-11 05:36:00
+C0489,U064,travel,"Spent a week in Mustang, the culture will stay in my memory forever",5,0,13,67,-0.281,0,2026-09-10 09:45:00
+C0490,U012,technology,The new camera has a great speaker and the performance is amazing in my opinion,131,12,15,79,0.242,0,2026-09-17 02:13:00
+C0491,U047,education,Learning regression for python is practical once you practice daily,22,0,10,67,0.289,0,2026-09-02 09:18:00
+C0492,U092,sports,"Proud of Gorkhali, the teamwork in the second half changed the game really",18,0,13,74,0.165,0,2026-09-03 19:14:00
+C0493,U044,sports,Gorkhali win the league with this defence next month really,4,0,10,59,0.39,0,2026-09-12 13:54:00
+C0494,U115,travel,"Spent a week in Mustang, the views will stay in my memory forever",60,5,13,65,-0.402,0,2026-09-06 14:59:00
+C0495,U025,technology,Anyone else having issues with the phone build quality after the update,36,4,12,71,0.319,0,2026-09-20 10:24:00
+C0496,U119,education,"I am struggling with normalization in databases, can anyone suggest a practical resource",39,5,13,88,0.093,0,2026-09-07 03:27:00
+C0497,U064,sports,Can Madrid win the league with this teamwork next tournament,19,3,10,60,0.837,1,2026-09-20 17:18:00
+C0498,U118,sports,Can Gorkhali win the league with this batting next tournament in my opinion,21,2,13,75,0.571,0,2026-09-04 04:58:00
+C0499,U113,sports,"Nepal played badly today, their batting needs serious improvement honestly",4,1,10,74,0.341,0,2026-09-18 15:44:00
+C0500,U038,education,Learning joins for statistics is practical once you practice daily,6,0,10,66,-0.507,0,2026-09-13 12:48:00

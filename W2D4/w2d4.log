@@ -1,0 +1,6 @@
+2026-10-01 17:53:05,759 [INFO] week 2 day 4 - text similarity assignment
+2026-10-01 17:53:53,477 [INFO] msg=Loaded sample_comments.csv with shape: (500, 11)
+2026-10-01 17:55:24,619 [INFO] checked data types, missing values, and category counts in sample_comments.csv
+2026-10-01 17:56:29,072 [INFO] Text cleaning and tokenization completed. Added 'clean_text' and 'tokens' columns to DataFrame.
+2026-10-01 17:59:21,502 [INFO] similarity and distance metrics functions defined and sanity checks passed.
+2026-10-01 18:00:32,698 [INFO] cosine_similarity matrices computed for TF-IDF and Bag-of-Words representations.
